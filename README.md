@@ -1,6 +1,6 @@
 ## The SERG website
 
-The SERG web site is built with Jekyll and is running on GitHub pages.
+The SERG web site is built with Jekyll and is running on GitHub pages. Trying now.
 
 ### Organization
 
