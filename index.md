@@ -3,7 +3,7 @@ layout: index
 title: Cyber Resilient Power Grids Research Group
 ---
 
-<image src="img/serg-halloween-2021.jpg" style="float:center; max-width:100%; max-height:100%;"/>
+<!-- <image src="img/serg-halloween-2021.jpg" style="float:center; max-width:100%; max-height:100%;"/> -->
 <br/>
 
 
