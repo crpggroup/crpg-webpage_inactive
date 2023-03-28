@@ -11,6 +11,7 @@ title: Cyber Resilient Power Grids Research Group
 
 
 
+![CRoF]({{ site.url }}{{ site.baseurl }}/img/CRoF_1.jpg)
 
 
 ## Organization
