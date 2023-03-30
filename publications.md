@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CRPG Publications
+title: 
 ---
 
 

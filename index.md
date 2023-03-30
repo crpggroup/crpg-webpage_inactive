@@ -1,6 +1,6 @@
 ---
-layout: index
-title: Cyber Resilient Power Grids Research Group
+layout: page
+title: 
 ---
 
 <!-- <image src="img/serg-halloween-2021.jpg" style="float:center; max-width:100%; max-height:100%;"/> -->
@@ -8,13 +8,20 @@ title: Cyber Resilient Power Grids Research Group
 
 
 # Cyber Resilient Power Grids
+<br/>
+<hr>
+<br/>
+
+### Our Research
+
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="{{ site.url }}{{ site.baseurl }}/img/crpg-research.JPG" width="75%" height="75%">
+</div>
 
 
 
-![CRoF]({{ site.url }}{{ site.baseurl }}/img/CRoF_1.jpg)
 
-
-## Organization
+### Organization
 
 CRPG is part of [Intelligent Electrical Power Grids][iepg], [Department of Electrical Sustainable Energy][ese], [Faculty of Electrical Engineering, Mathematics, and Computer Science][eemcs], [Delft University of Technology][tudelft].
 
