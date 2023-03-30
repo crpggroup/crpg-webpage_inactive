@@ -1,9 +1,8 @@
 ---
 layout: page
-title: 
+title: News
 ---
 
-## News
 
 <hr>
 <hr>

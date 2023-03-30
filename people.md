@@ -2,6 +2,7 @@
 layout: page
 title: People
 ---
+<hr>
 
 ### CRPG Professor
 
