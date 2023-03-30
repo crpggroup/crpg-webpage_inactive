@@ -3,7 +3,7 @@ layout: page
 title: 
 ---
 
-### Our Contact
+
 
 Email: CRPG-IEPG-ESE@tudelft.nl
 <br/>

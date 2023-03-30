@@ -6,7 +6,6 @@ title:
 
 
 
-### Publication List
 
 <div id="publicationlist"></div>
 
