@@ -3,8 +3,7 @@ layout: page
 title: CRPG Pojects
 ---
 
-<br/>
-<br/>
+<hr>
 <hr>
 
 <br/>

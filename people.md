@@ -2,7 +2,8 @@
 layout: page
 title: People
 ---
-
+<hr>
+<hr>
 ### CRPG Professor
 
  <div class="card-deck">

@@ -3,7 +3,8 @@ layout: page
 title: Contact
 ---
 
-
+<hr>
+<hr>
 
 Email: CRPG-IEPG-ESE@tudelft.nl
 <br/>
