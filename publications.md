@@ -5,7 +5,7 @@ title:
 
 <hr>
 <hr>
--
+.
 
 * A. Presekal, A. Ştefanov, V. S. Rajkumar and P. Palensky, "[Attack Graph Model for Cyber-Physical Power Systems using Hybrid Deep Learning,](https://ieeexplore.ieee.org/abstract/document/10017381)" in *IEEE Transactions on Smart Grid*, early access.
 * R. Akkaoui, A. Stefanov, P. Palensky and D. H. J. Epema, "[A Taxonomy and Lessons Learned From Blockchain Adoption Within the Internet of Energy Paradigm,](https://ieeexplore.ieee.org/abstract/document/9911641)" in *IEEE Access*, vol. 10, pp. 106708-106739, 2022.
