@@ -3,7 +3,7 @@ layout: page
 title: 
 ---
 
-
+-
 <hr>
 
 * A. Presekal, A. Ştefanov, V. S. Rajkumar and P. Palensky, "[Attack Graph Model for Cyber-Physical Power Systems using Hybrid Deep Learning,](https://ieeexplore.ieee.org/abstract/document/10017381)" in *IEEE Transactions on Smart Grid*, early access.
