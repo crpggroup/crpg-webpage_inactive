@@ -2,7 +2,6 @@
 layout: page
 title: People
 ---
-<hr>
 
 ### CRPG Professor
 
@@ -142,6 +141,8 @@ title: People
       <p class="card-text">Msc Electrical power system engineering, Shahid Beheshti university, Iran</p>
     </div>
     <div class="card-footer bg-transparent border-success">
+      <!--  <a href="https://twitter.com/luismcruz"><i class="fab fa-twitter"></i></a> -->
+      <!-- <a href="http://github.com/luiscruz"><i class="fab fa-github"></i></a> -->
       <a href="https://www.linkedin.com/in/ali-mollaiee-2380a1170/"><i class="fab fa-linkedin"></i></a>
       <a href="https://scholar.google.nl/citations?hl=en&user=4oKXORkAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a >
    </div>
@@ -154,6 +155,8 @@ title: People
       <p class="card-text">Msc Electrical power system engineering, University of Isfahan, Iran</p>
     </div>
     <div class="card-footer bg-transparent border-success">
+      <!--  <a href="https://twitter.com/luismcruz"><i class="fab fa-twitter"></i></a> -->
+      <!-- <a href="http://github.com/luiscruz"><i class="fab fa-github"></i></a> -->
       <a href="https://www.linkedin.com/in/sayed-mehran-hashemian-ataabadi/"><i class="fab fa-linkedin"></i></a>
       <a href="https://scholar.google.nl/citations?hl=en&user=4oKXORkAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a >
    </div>
@@ -164,10 +167,11 @@ title: People
 
 <hr>
 
+<!--
 ### Alumni
 <a id="alumni"></a>
 
-<!-- Dear alumnus: Please feel free to offer your change of affiliation in a pull request! -->
+ Dear alumnus: Please feel free to offer your change of affiliation in a pull request! 
 
 Name | Period | Role | Current Affiliation
 --|--|--|--
@@ -176,3 +180,4 @@ Name | Period | Role | Current Affiliation
 [Alumni 3](https://nl.linkedin.com/in/sohon-roy-8a337014) | 2014--2022 | PhD candidate | Independent |
 
 
+-->

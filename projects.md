@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Projects
+title: CRPG Pojects
 ---
-
 
 <br/>
 <br/>
@@ -50,10 +49,4 @@ Start | Name | Project Title | Funding | Researcher
 
 <br/>
 
-
-## Past Research Projects
-
-Start | Name | Project Title | Funding | SERG Principal Investigators
-------|------|---------------|---------|------------------------
-???  |???  | ???| ???  | ???
 
