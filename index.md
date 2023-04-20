@@ -2,11 +2,7 @@
 layout: page
 title: 
 ---
-
 <!-- <image src="img/serg-halloween-2021.jpg" style="float:center; max-width:100%; max-height:100%;"/> -->
-<br/>
-
-
 # Cyber Resilient Power Grids
 <br/>
 <hr>
