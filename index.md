@@ -7,6 +7,10 @@ title:
 <hr>
 <hr>
 
+The energy system transition towards a sustainable future is realised by decarbonisation, decentralisation and digitalisation. On top of the power grid infrastructure reside ICT layers for monitoring and intelligent control of the power grid. The cyber and power systems together form a complex Cyber–Physical System (CPS).
+If the system’s observability and controllability are compromised due to communication and cyber security problems, the power grid can be exposed to catastrophic events. Cyber attacks can damage power equipment, cause cascading failures and lead to a blackout. Furthermore, adverse climate events such as earthquakes, flooding, hurricanes and storms can severely damage the physical infrastructure of the energy system.
+We conduct research, development and demonstration to ensure the resilience of power systems to cyber attacks and natural disasters. Our objective is to help develop resilient CPS that can anticipate, absorb the shock, adapt, and rapidly recover from high-impact, low-frequency disturbances. 
+Our CRPG software solution is using computational and artificial intelligence to help utilities, vendors and researchers to assess and improve the power system cyber security and resilience. Our solution is demonstrated in the Control Room of the Future (CRoF) at TU Delft. 
 
 ### Our Mission
 
