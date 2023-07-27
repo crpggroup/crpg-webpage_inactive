@@ -2,8 +2,7 @@
 layout: page
 title: People
 ---
-<hr>
-<hr>
+
 ### CRPG Professor
 
  <div class="card-deck">
@@ -35,26 +34,13 @@ title: People
     <div class="card-body">
       <div class="card-title"><a href="https://crpggroup.github.io/">Mohsen Jorjani</a></div>
       <p class="card-text">PhD in electrical power eystems engineering from Tarbiat Modares University (TMU), Iran</p>
+	  <p class="card-text">Expertise: power systems cyber security,power systems operation,power system control </p>
     </div>
     <div class="card-footer bg-transparent border-success">
       <!--  <a href="https://twitter.com/luismcruz"><i class="fab fa-twitter"></i></a> -->
       <!-- <a href="http://github.com/luiscruz"><i class="fab fa-github"></i></a> -->
       <a href="https://www.linkedin.com/in/mohsen-jorjani/"><i class="fab fa-linkedin"></i></a>
       <a href="https://scholar.google.nl/citations?user=qs3b2swAAAAJ&hl=en&oi=ao" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
-   </div>
-  </div>
-
-  <div class="card d-flex d-block">
-    <img class="card-img-top" src="{{ site.url }}{{ site.baseurl }}/img/Raifa_Akkaoui.jpg" alt="Raifa Akkaoui">
-    <div class="card-body">
-      <div class="card-title"><a href="https://crpggroup.github.io/">Raifa Akkaoui</a></div>
-      <p class="card-text">PhD in information and communication engineering, Huazhong University of Science and Technology, China</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <!--  <a href="https://twitter.com/luismcruz"><i class="fab fa-twitter"></i></a> -->
-      <!-- <a href="http://github.com/luiscruz"><i class="fab fa-github"></i></a> -->
-      <a href="https://www.linkedin.com/in/raifa-akkaoui-088a5522a/"><i class="fab fa-linkedin"></i></a>
-      <!-- a href="https://scholar.google.com/citations?user=iU63RAUAAAAJ&hl=en&oi=ao" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a -->
    </div>
   </div>
 
@@ -73,6 +59,7 @@ title: People
     <div class="card-body">
       <div class="card-title"><a href="https://crpggroup.github.io/">Alfan Presekal</a></div>
       <p class="card-text">MSc in secure software system, Imperial College, UK</p>
+	  <p class="card-text">Expertise: intrusion detection systems, cyber security,cyber-physical system model, graph neural network </p>
     </div>
     <div class="card-footer bg-transparent border-success">
       <!--  <a href="https://twitter.com/luismcruz"><i class="fab fa-twitter"></i></a> -->
@@ -88,6 +75,7 @@ title: People
     <div class="card-body">
       <div class="card-title"><a href="https://crpggroup.github.io/">Vetrivel Subramaniam Rajkumar</a></div>
       <p class="card-text">MSc in electrical engineering, TU Delft, the Netherlands</p>
+	  	  <p class="card-text">Expertise: power system blackout, cyber security, cyber attacks, cascading failures, digital substations </p>
     </div>
     <div class="card-footer bg-transparent border-success">
       <!--  <a href="https://twitter.com/luismcruz"><i class="fab fa-twitter"></i></a> -->
@@ -102,6 +90,7 @@ title: People
     <div class="card-body">
       <div class="card-title"><a href="https://crpggroup.github.io/">Yigu Liu</a></div>
       <p class="card-text"> MEng in Electrical and Electronics Engineering, Southwest Jiaotong University, China</p>
+	  <p class="card-text">Expertise: synthetic networks, cyber-physical systems, vulnerabilities </p>
     </div>
     <div class="card-footer bg-transparent border-success">
       <!--  <a href="https://twitter.com/luismcruz"><i class="fab fa-twitter"></i></a> -->
@@ -124,6 +113,7 @@ title: People
     <div class="card-body">
       <div class="card-title"><a href="https://crpggroup.github.io/">Ioannis Semertzis</a></div>
       <p class="card-text">MSc in electrical engineering, TU Delft, the Netherlands</p>
+	  <p class="card-text">Expertise: power systems cybersecurity, power system stability, power system operation, intrusion detection systems, machine learning /deep learning for anomaly detection </p>
     </div>
     <div class="card-footer bg-transparent border-success">
       <!--  <a href="https://twitter.com/luismcruz"><i class="fab fa-twitter"></i></a> -->
@@ -139,7 +129,8 @@ title: People
     <img class="card-img-top" src="{{ site.url }}{{ site.baseurl }}/img/Ali_Mollaei.jpg" alt="AliMollaiee">
     <div class="card-body">
       <div class="card-title"><a href="https://crpggroup.github.io/">Ali Mollaiee</a></div>
-      <p class="card-text">Msc Electrical power system engineering, Shahid Beheshti university, Iran</p>
+      <p class="card-text">Msc in Electrical power system engineering, Shahid Beheshti university, Iran</p>
+	  <p class="card-text">Expertise: power system stability, machine learning, cascading failures, preventive and emergency control </p>
     </div>
     <div class="card-footer bg-transparent border-success">
       <!--  <a href="https://twitter.com/luismcruz"><i class="fab fa-twitter"></i></a> -->
@@ -153,7 +144,8 @@ title: People
     <img class="card-img-top" src="{{ site.url }}{{ site.baseurl }}/img/Mehran_Hashemian.jpg" alt="Mehran Hashemian">
     <div class="card-body">
       <div class="card-title"><a href="https://crpggroup.github.io/">Mehran Hashemian</a></div>
-      <p class="card-text">Msc Electrical power system engineering, University of Isfahan, Iran</p>
+      <p class="card-text">Msc in Electrical power system engineering, University of Isfahan, Iran</p>
+	  <p class="card-text">Expertise: power systems resilience, power system restoration, power system operation, power system protection </p>
     </div>
     <div class="card-footer bg-transparent border-success">
       <!--  <a href="https://twitter.com/luismcruz"><i class="fab fa-twitter"></i></a> -->
@@ -163,22 +155,48 @@ title: People
    </div>
   </div>
 
+</div>
+
+<div class="card-deck non-top-row">
+
+<div class="card d-flex d-block">
+    <img class="card-img-top" src="{{ site.url }}{{ site.baseurl }}/img/Sjors_Hijgenaar.jpg" alt="Ioannis Semertzis">
+    <div class="card-body">
+      <div class="card-title"><a href="https://crpggroup.github.io/">Sjors Hijgenaar</a></div>
+      <p class="card-text">Msc in Transport, Infrastructure and Logistics, TU Delft, the Netherlands</p>
+	  <p class="card-text">Expertise: power distribution networks, voltage stability analysis, machine learning, cyber security of EV infrastructures, operational resilience in distribution networks </p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <!--  <a href="https://twitter.com/luismcruz"><i class="fab fa-twitter"></i></a> -->
+      <!-- <a href="http://github.com/luiscruz"><i class="fab fa-github"></i></a> -->
+      <a href="https://www.linkedin.com/in/sjorshijgenaar/"><i class="fab fa-linkedin"></i></a>
+      <!-- a href="https://scholar.google.nl/citations?user=rcqaVKMAAAAJ&hl=en&oi=ao" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a -->
+   </div>
+  </div>
 
 </div>
 
 <hr>
 
-<!--
 ### Alumni
-<a id="alumni"></a>
 
- Dear alumnus: Please feel free to offer your change of affiliation in a pull request! 
+ <div class="card-deck">
+  <div class="card d-flex d-block">
+    <img class="card-img-top" src="{{ site.url }}{{ site.baseurl }}/img/Raifa_Akkaoui.jpg" alt="Raifa Akkaoui">
+    <div class="card-body">
+      <div class="card-title"><a href="https://crpggroup.github.io/">Raifa Akkaoui</a></div>
+      <p class="card-text">PhD in information and communication engineering, Huazhong University of Science and Technology, China</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <!--  <a href="https://twitter.com/luismcruz"><i class="fab fa-twitter"></i></a> -->
+      <!-- <a href="http://github.com/luiscruz"><i class="fab fa-github"></i></a> -->
+      <a href="https://www.linkedin.com/in/raifa-akkaoui-088a5522a/"><i class="fab fa-linkedin"></i></a>
+      <!-- a href="https://scholar.google.com/citations?user=iU63RAUAAAAJ&hl=en&oi=ao" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a -->
+   </div>
+  </div>
 
-Name | Period | Role | Current Affiliation
---|--|--|--
-[Alumni 1](https://pouria-d.me/) | 2017-2021 | PhD, postdoc | JetBrains
-[Alumni 2](https://chandramaddila.github.io/) | 2019-2022 | PhD (external) | Meta, USA |
-[Alumni 3](https://nl.linkedin.com/in/sohon-roy-8a337014) | 2014--2022 | PhD candidate | Independent |
+</div> <!-- deck -->
+
+<hr>
 
 
--->

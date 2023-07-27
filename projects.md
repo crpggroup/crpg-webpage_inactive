@@ -3,14 +3,15 @@ layout: page
 title: CRPG Pojects
 ---
 
-<hr>
+<br/>
+<br/>
 <hr>
 
 <br/>
 
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="{{ site.url }}{{ site.baseurl }}/img/Project-page.png" width="75%" height="75%">
+    <img src="{{ site.url }}{{ site.baseurl }}/img/Project-page.jpg" width="75%" height="75%">
 </div>
 
 
@@ -23,7 +24,7 @@ title: CRPG Pojects
 <br/>
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="{{ site.url }}{{ site.baseurl }}/img/Projects.png" width="75%" height="75%">
+    <img src="{{ site.url }}{{ site.baseurl }}/img/Projects.jpg" width="75%" height="75%">
 </div>
 
 <br/>
@@ -34,18 +35,22 @@ The list of active projects is listed in the table below. For more information, 
 
 <hr>
 
-## Current Research Projects
+## Active Projects
 
-Within our research lines, ongoing funded research projects include:
-
-Start | Name | Project Title | Funding | Researcher
--------|--------|-------------------------|---------|---------------------
-2022 | [eFORT](https://efort-project.eu/) | Establishment of a Framework for Transforming Current EPES into a More Resilient, Reliable, and Secure System All Over its Value Chain | EU H2021 | Ali Mollaiee & Mehran Hashemian
-2022  | [HVDC-WISE](https://hvdc-wise.eu/)  | Reliable and Resilient AC & DC Grid Design to Accelerate the Integration of Renewables Across Europe | H2021  | Mohsen Jorjani
-2022  | [InnoCyPES](https://innocypes.eu/)  | Innovative Tools for Cyber-Physical Energy Systems | H2020  | Ali Abedi
-2022  | [RESCUE](https://www.4tu.nl/resilience/news-and-events/news/RESCUE-project-granted/) | Resilience and Cyber Security of Integrated Cyber-Physical Energy Systems | NWO |Ioannis Semertzis 
-2019  | [ERIGRID 2.0](https://erigrid2.eu/#/) | European Research Infrastructure Supporting Smart Grid and Smart Energy Systems Research, Technology Development, Validation and Roll Out) | EU H2020 | V. Subramaniam Rajkumar 
-
-<br/>
+|Number | Name | Project title | Start date | End date | Funding | Researchers |
+|:--- | :--- | :----------------------------------------------------- |:--------|:-------|:---------|:------------|
+|01 | [COCOON]() | ??? |15 Oct. 2023 | 15 Oct. 2026 | EU Horizon Europe 2022 | Himanshu Goyel |
+|02 | [eFORT](https://efort-project.eu/) | Establishment of a Framework for Transforming Current EPES into a More Resilient, Reliable, and Secure System All Over its Value Chain| 1 Sept. 2022 | 31 Aug. 2026 | EU Horizon Europe 2021 | Ali Mollaiee & Mehran Hashemian |
+|03 | [HVDC-WISE](https://hvdc-wise.eu/) |Reliable and Resilient AC & DC Grid Design to Accelerate the Integration of Renewables Across Europe | 1 Sept. 2022 | 31 Aug. 2026 | EU Horizon Europe 2021 | Mohsen Jorjani |
+|04 | [InnoCyPES](https://innocypes.eu/)| Innovative Tools for Cyber-Physical Energy Systems| 20 Jan. 2020 | 20 Jan. 2024 | EU (Marie Skłodowska-Curie Actions) | Nicola Cibin |
+|05 | [RESCUE](https://www.4tu.nl/resilience/news-and-events/news/RESCUE-project-granted/) | Resilience and Cyber Security of Integrated Cyber-Physical Energy Systems | 1 Oct. 2020 | 1 Oct. 2024 | NWO | Ioannis Semertzis |
+|06 | [BRILLIANT](https://www.stedin.net/werken-bij/genoeg-te-vertellen/sjors-vlogt-deel-3) | Cyber Resilient Electric Vehicle Charging in Smart Grids | 1 Apr. 2020 | 1 Apr. 2024 | Stedin | Sjors Hijgenaar |
+|07 | [ERIGRID2](https://erigrid2.eu/#/) | European Research Infrastructure Supporting Smart Grid and Smart Energy Systems Research, Technology Development, Validation and Roll Out) | April 2020 | September 2024 | Horizon Europe 2020| V. Subramaniam Rajkumar |
 
 
+
+## Completed Projects
+
+|Number | Name | Project title | Start date | End date | Funding | Researchers |
+|:--- | :--- | :----------------------------------------------------- |:--------|:-------|:---------|:------------|
+|01 | ??? | ??? | ??? |  ??? |  ??? | ???? |
