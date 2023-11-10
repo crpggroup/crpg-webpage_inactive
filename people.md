@@ -27,25 +27,7 @@ title: People
 
 ### PostDocs
 
- <div class="card-deck">
-
-  <div class="card d-flex d-block">
-    <img class="card-img-top" src="{{ site.url }}{{ site.baseurl }}/img/Mohsen_Jorjani.JPG" alt="Mohsen Jorjani">
-    <div class="card-body">
-      <div class="card-title"><a href="https://crpggroup.github.io/">Mohsen Jorjani</a></div>
-      <p class="card-text">PhD in electrical power eystems engineering from Tarbiat Modares University (TMU), Iran</p>
-	  <p class="card-text">Expertise: power systems cyber security,power systems operation,power system control </p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <!--  <a href="https://twitter.com/luismcruz"><i class="fab fa-twitter"></i></a> -->
-      <!-- <a href="http://github.com/luiscruz"><i class="fab fa-github"></i></a> -->
-      <a href="https://www.linkedin.com/in/mohsen-jorjani/"><i class="fab fa-linkedin"></i></a>
-      <a href="https://scholar.google.nl/citations?user=qs3b2swAAAAJ&hl=en&oi=ao" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
-   </div>
-  </div>
-
-
-</div> <!-- deck -->
+ <!-- deck -->
 
 <hr>
 
@@ -124,41 +106,6 @@ title: People
   </div>
 
 
-
-<div class="card d-flex d-block">
-    <img class="card-img-top" src="{{ site.url }}{{ site.baseurl }}/img/Ali_Mollaei.jpg" alt="AliMollaiee">
-    <div class="card-body">
-      <div class="card-title"><a href="https://crpggroup.github.io/">Ali Mollaiee</a></div>
-      <p class="card-text">Msc in Electrical power system engineering, Shahid Beheshti university, Iran</p>
-	  <p class="card-text">Expertise: power system stability, machine learning, cascading failures, preventive and emergency control </p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <!--  <a href="https://twitter.com/luismcruz"><i class="fab fa-twitter"></i></a> -->
-      <!-- <a href="http://github.com/luiscruz"><i class="fab fa-github"></i></a> -->
-      <a href="https://www.linkedin.com/in/ali-mollaiee-2380a1170/"><i class="fab fa-linkedin"></i></a>
-      <a href="https://scholar.google.nl/citations?hl=en&user=4oKXORkAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a >
-   </div>
-  </div>
-
-<div class="card d-flex d-block">
-    <img class="card-img-top" src="{{ site.url }}{{ site.baseurl }}/img/Mehran_Hashemian.jpg" alt="Mehran Hashemian">
-    <div class="card-body">
-      <div class="card-title"><a href="https://crpggroup.github.io/">Mehran Hashemian</a></div>
-      <p class="card-text">Msc in Electrical power system engineering, University of Isfahan, Iran</p>
-	  <p class="card-text">Expertise: power systems resilience, power system restoration, power system operation, power system protection </p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <!--  <a href="https://twitter.com/luismcruz"><i class="fab fa-twitter"></i></a> -->
-      <!-- <a href="http://github.com/luiscruz"><i class="fab fa-github"></i></a> -->
-      <a href="https://www.linkedin.com/in/sayed-mehran-hashemian-ataabadi/"><i class="fab fa-linkedin"></i></a>
-      <a href="https://scholar.google.nl/citations?hl=en&user=4oKXORkAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a >
-   </div>
-  </div>
-
-</div>
-
-<div class="card-deck non-top-row">
-
 <div class="card d-flex d-block">
     <img class="card-img-top" src="{{ site.url }}{{ site.baseurl }}/img/Sjors_Hijgenaar.jpg" alt="Ioannis Semertzis">
     <div class="card-body">
@@ -174,13 +121,23 @@ title: People
    </div>
   </div>
 
+
+</div>
+
+<div class="card-deck non-top-row">
+
+
+
 </div>
 
 <hr>
 
 ### Alumni
 
- <div class="card-deck">
+
+<div class="card-deck non-top-row">
+
+
   <div class="card d-flex d-block">
     <img class="card-img-top" src="{{ site.url }}{{ site.baseurl }}/img/Raifa_Akkaoui.jpg" alt="Raifa Akkaoui">
     <div class="card-body">
@@ -195,7 +152,28 @@ title: People
    </div>
   </div>
 
-</div> <!-- deck -->
+
+  <div class="card d-flex d-block">
+    <img class="card-img-top" src="{{ site.url }}{{ site.baseurl }}/img/Mohsen_Jorjani.JPG" alt="Mohsen Jorjani">
+    <div class="card-body">
+      <div class="card-title"><a href="https://crpggroup.github.io/">Mohsen Jorjani</a></div>
+      <p class="card-text">PhD in electrical power eystems engineering from Tarbiat Modares University (TMU), Iran</p>
+	  <p class="card-text">Expertise: power systems cyber security,power systems operation,power system control </p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <!--  <a href="https://twitter.com/luismcruz"><i class="fab fa-twitter"></i></a> -->
+      <!-- <a href="http://github.com/luiscruz"><i class="fab fa-github"></i></a> -->
+      <a href="https://www.linkedin.com/in/mohsen-jorjani/"><i class="fab fa-linkedin"></i></a>
+      <a href="https://scholar.google.nl/citations?user=qs3b2swAAAAJ&hl=en&oi=ao" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
+   </div>
+  </div>
+
+
+</div>
+
+
+
+ <!-- deck -->
 
 <hr>
 
